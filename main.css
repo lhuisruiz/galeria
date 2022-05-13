@@ -36,6 +36,19 @@ h1, h2, h3, h4, h5, h6, p{
     margin: 9px 0;
     color: var(--white);
 }
+.icon-red{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    margin: 20px;
+}
+.pop{
+    width: 40px;
+    height: auto;
+    display: flex;
+    margin: 5px;
+}
 
 /********************** Utility Classes *******************/
 .flex{
